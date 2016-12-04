@@ -1,0 +1,3 @@
+C:/Users/juanbazooka/ClionProjects/apuntes 02.12/cmake-build-debug/CMakeFiles/apuntes_02_12.dir
+C:/Users/juanbazooka/ClionProjects/apuntes 02.12/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/juanbazooka/ClionProjects/apuntes 02.12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
